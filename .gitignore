@@ -69,4 +69,4 @@ Temporary Items
 *.icloud
 
 ### kakao, naver properties file ###
-!**/src/main/resources/properties/**
+!**/src/main/resources/properties
